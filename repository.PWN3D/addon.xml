@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.PWN3D" name="[COLOR red]PWN3D Repo[/COLOR]" version="6.3" provider-name="PWn3D">
+	<extension point="xbmc.addon.repository" name="PWN3D">
+		<info compressed="false">https://raw.githubusercontent.com/nemesis668/repository.streamarmy/master/addons.xml</info>
+        <checksum>http://raw.githubusercontent.com/nemesis668/repository.streamarmy/master/addons.xml.md5</checksum>
+        <datadir zip="true">http://raw.githubusercontent.com/nemesis668/repository.streamarmy/master/zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>PWN3D Repo</summary>
+		<description>Repo for me, brought to you by POEWN3D</description>
+		<platform>all</platform>
+	</extension>
+</addon>
